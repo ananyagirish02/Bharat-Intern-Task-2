@@ -5,28 +5,28 @@ This repository contains the code for wine quality prediction project using line
 ## Dataset
 The dataset used in this project is called "wine quality.csv".The dataset includes the following features:
 
-1.Fixed acidity
-2.Volatile acidity
-3.Citric acid
-4.Residual sugar
-5.Chlorides
-6.Free sulfur dioxide
-7.Total sulfur dioxide
-8.Density
-9.pH
-10.Sulphates
-11.Alcohol
-12.Quality
++ Fixed acidity
++ Volatile acidity
++ Citric acid
++ Residual sugar
++ Chlorides
++ Free sulfur dioxide
++ Total sulfur dioxide
++ Density
++ pH
++ Sulphates
++ Alcohol
++ Quality
 
 ## Dependencies
 To run this project, you will need the following dependencies:
 
-1.Python
-2.pandas
-3.numpy
-4.seaborn
-5.matplotlib
-6.scikit-learn
++ Python
++ pandas
++ numpy
++ seaborn
++ matplotlib
++ scikit-learn
 
 ## Exploratory Data Analysis
 Before building the model, we perform exploratory data analysis to gain insights into the dataset.
